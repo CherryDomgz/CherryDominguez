@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CherryDominguez
+- 👋 Hi, I’m @CherryD.
 - 👀 I’m interested in the challenging and fun world of web design
 - 🌱 I’m currently learning "The Complete 2022 Web Development Bootcamp" by Dr. Angela Yu
 - 📫 How to reach me cherry.dominguez36@gmail.com
